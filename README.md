@@ -3,9 +3,9 @@
 
 ### By:
 
-| NAME                | USN            |
-|---------------------|----------------|
-| CHINMAY PARANJAPE   | 02FE22BCS403   |
-| KUSHAL KAPARATTI    | 02FE21BCS041   |
-| LEKHASHREE MALLAPUR | 02FE21BCS042   |
-| VRUSHABH MOTI       | 02FE22BCS420   |
+| NAME                |
+|---------------------|
+| CHINMAY PARANJAPE   |    |
+| KUSHAL KAPARATTI    |
+| LEKHASHREE MALLAPUR |
+| VRUSHABH MOTI       |
